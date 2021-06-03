@@ -28,12 +28,10 @@ author_profile: true
 <img src="..\images\cat(20).jpg" alt="cat(20).jpg" width="200" height="200"> <img src="..\images\cat(19).jpg" alt="cat(19).jpg" width="200" height="200"> <img src="..\images\cat(17).jpg" alt="cat(17).jpg" width="200" height="200"> 
 </p>
 
-<img src="..\images\cat(13).jpg" alt="cat(13).jpg" width="200" height="200"> <img src="..\images\cat(23).jpg" alt="cat(23).jpg" width="200" height="200"> <img src="..\images\cat(22).jpg" alt="cat(22).jpg" width="200" height="200"> 
-</p>
+<img src="..\images\cat(13).jpg" alt="cat(13).jpg" width="200" height="200"> <img src="..\images\cat(23).jpg" alt="cat(23).jpg" width="200" height="200"> <img src="..\images\cat(22).jpg" alt="cat(22).jpg" width="200" height="200"> </p>
 
 <p float="left">
-<img src="..\images\cat(1).jpg" alt="cat(1).jpg" width="200" height="200"> 
-<img src="..\images\cat(26).jpg" alt="cat(26).jpg" width="200" height="200">
+<img src="..\images\cat(6).jpg" alt="cat(6).jpg" width="200" height="200"> <img src="..\images\cat(1).jpg" alt="cat(1).jpg" width="200" height="200"> <img src="..\images\cat(26).jpg" alt="cat(26).jpg" width="200" height="200">
 </p>
 
 <p float="left">
