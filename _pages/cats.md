@@ -17,7 +17,7 @@ author_profile: true
 </p>
 
 <p float="left">
-<img src="..\images\cat(29).jpg" alt="cat(29).jpg" width="250" height="250"> <img src="..\images\cat(28).jpg" alt="cat(28).jpg" width="250" height="250">
+<img src="..\images\cat(29).jpg" alt="cat(29).jpg" width="250" height="250"> <img src="..\images\cat(28).jpg" alt="cat(28).jpg" width="250" height="250"> <img src="..\images\cat(27).jpg" alt="cat(27).jpg" width="250" height="250"> 
 </p>
 
 <p float="left">
