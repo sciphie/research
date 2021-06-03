@@ -2,9 +2,6 @@
 permalink: /cats/
 title: "cats"
 author_profile: true
-redirect_from: 
-  - /cats/
-  - /cats.html
 ---
 
 
