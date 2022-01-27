@@ -29,6 +29,7 @@ Cats are not only the true inventors of the Internet, but they also are among th
 <img src="..\images\cat(20).jpg" alt="cat(20).jpg" width="250" height="250"> <img src="..\images\cat(19).jpg" alt="cat(19).jpg" width="250" height="250"> <img src="..\images\cat(17).jpg" alt="cat(17).jpg" width="250" height="250"> 
 </p>
 
+<!---
 <p float="left">
 <img src="..\images\cat(13).jpg" alt="cat(13).jpg" width="250" height="250"> <img src="..\images\cat(23).jpg" alt="cat(23).jpg" width="250" height="250"> <img src="..\images\cat(22).jpg" alt="cat(22).jpg" width="250" height="250"> </p>
 
@@ -38,3 +39,4 @@ Cats are not only the true inventors of the Internet, but they also are among th
 <p float="left">
 <img src="..\images\cat(25).jpg" alt="cat(25).jpg" width="250" height="250"> <img src="..\images\cat(7).jpg" alt="cat(7).jpg" width="250" height="250"> <img src="..\images\cat(10).jpg" alt="cat(10).jpg" width="250" height="250"> 
 </p>
+-->
