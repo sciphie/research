@@ -2,7 +2,7 @@
 title: "A qualitative study of Machine Learning practices and engineering challenges in Earth Observation"
 collection: publications
 permalink: /publication/qualitative-study-of-ml
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'An explorative study providing insights regarding Machine Learning development at the Earth Observation Center of the DLR.'
 date: 2021-07-15
 venue: 'it - Information Technology'
 paperurl: 'https://www.degruyter.com/document/doi/10.1515/itit-2020-0045/html'

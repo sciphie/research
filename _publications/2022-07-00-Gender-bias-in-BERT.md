@@ -2,7 +2,7 @@
 title: "Gender Bias in BERT -- Measuring and Analysing Biases through Sentiment Rating in a Realistic Downstream Classification Task"
 collection: publications
 permalink: /publication/gender-bias-in-bert
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'In this paper, we analyse how gender biases are passed through ML-based systems and what effect the size of the foundation model has on the size of biases.'
 date: 2022-07-01
 venue: '4th Workshop on Gender Bias in Natural Language Processing (GeBNLP) at ACL Conference'
 paperurl: 'https://aclanthology.org/2022.gebnlp-1.20/'

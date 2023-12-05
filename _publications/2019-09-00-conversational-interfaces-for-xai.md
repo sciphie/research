@@ -1,7 +1,7 @@
 ---
 title: "Conversational Interfaces for Explainable AI: A Human-Centred Approach"
 collection: publications
-permalink: /publication/2019-09-conversational-interfaces-for-xai
+permalink: /publication/conversational-interfaces-for-xai
 excerpt: 'excerpt'
 date: 2019-09-01
 venue: "AAMAS '19: International Conference on Autonomous Agents and Multiagent Systems"
