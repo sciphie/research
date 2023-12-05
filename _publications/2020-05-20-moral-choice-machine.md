@@ -1,8 +1,8 @@
 ---
 title: "The Moral Choice Machine"
 collection: publications
-permalink: /publication/2020-05-20-moral-choice-machine
-excerpt: 'todo.'
+permalink: /publication/moral-choice-machine
+excerpt: 'This paper is the third contribution regarding the "Moral Choice Machine."'
 date: 2020-05-20
 venue: 'Frontiers in Artificial Intelligence'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/frai.2020.00036/pdf'

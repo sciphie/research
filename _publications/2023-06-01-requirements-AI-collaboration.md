@@ -1,0 +1,15 @@
+---
+title: "Requirements for Explainability and Acceptance of Artificial Intelligence in Collaborative Work"
+collection: publications
+permalink: /publication/Requirements-AI-Collaboration
+excerpt: 'This paper is a collaboration between colleagues of different DLR institutes, namely Sabine Theis (Group Leader of the Group Human Factors in Software Engineering in the Institue for Softwaretechnology), me (Group Intelligente Software Systeme, same Institute), Foteini Deligiannaki, Charles Berro, and Arne Raulf (DLR Institute for AI Security), and Carmen Bruder (DLR Institute of Aerospace Medicine).'
+date: 2023-06-01
+venue: 'International Conference on Human-Computer Interaction (CHI) '
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-35891-3_22'
+citation: 'Theis, S., Jentzsch, S., Deligiannaki, F., Berro, C., Raulf, A. P., & Bruder, C. (2023, July). Requirements for Explainability and Acceptance of Artificial Intelligence in Collaborative Work. In International Conference on Human-Computer Interaction (pp. 355-380). Cham: Springer Nature Switzerland.'
+---
+The increasing prevalence of Artificial Intelligence (AI) in safety-critical contexts such as air-traffic control leads to systems that are practical and efficient, and to some extent explainable to humans to be trusted and accepted. The present structured literature analysis examines n = 236 articles on the requirements for the explainability and acceptance of AI. Results include a comprehensive review of n = 48 articles on information people need to perceive an AI as explainable, the information needed to accept an AI, and representation and interaction methods promoting trust in an AI. Results indicate that the two main groups of users are developers who require information about the internal operations of the model and end users who require information about AI results or behavior. Users' information needs vary in specificity, complexity, and urgency and must consider context, domain knowledge, and the user's cognitive resources. The acceptance of AI systems depends on information about the system's functions and performance, privacy and ethical considerations, as well as goal-supporting information tailored to individual preferences and information to establish trust in the system. Information about the system's limitations and potential failures can increase acceptance and trust. Trusted interaction methods are human-like, including natural language, speech, text, and visual representations such as graphs, charts, and animations. Our results have significant implications for future human-centric AI systems being developed. Thus, they are suitable as input for further application-specific investigations of user needs. 
+
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-35891-3_22)
+
+Recommended citation: Theis, S., et al. (2023, July). Requirements for Explainability and Acceptance of Artificial Intelligence in Collaborative Work. In </i>International Conference on Human-Computer Interaction (pp. 355-380)</i>. Cham: Springer Nature Switzerland.
