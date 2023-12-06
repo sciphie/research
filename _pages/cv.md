@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+*This side is still under construction!* 
+
 Education
 ======
 * B.Sc. in Psychology in IT, Technische Universität Darmstadt, 2015
@@ -16,9 +18,8 @@ Education
 
 Work experience
 ======
-* Jan 2019 - now: Research Assistant at German Aerospace Center
-  * Github University
-  * Duties included: Tagging issues
+* Jan 2019 - now: Research Assistant at German Aerospace Center (DLR e.V.) in the Group for Intelligent Software Systems at the Institute for Softwaretechnology (Cologne and Sankt Augustin)
+
 
 
 Skills
@@ -36,7 +37,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!--Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -51,3 +52,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--> 
