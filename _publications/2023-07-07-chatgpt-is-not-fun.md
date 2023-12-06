@@ -2,7 +2,7 @@
 title: "ChatGPT is fun, but it is not funny! Humor is still challenging Large Language Models"
 collection: publications
 permalink: /publication/chatgpt-is-not-funny
-excerpt: 'This paper evaluates ChatGPT's ability to understand and reproduce human humor through exploratory experiments.'
+excerpt: 'This paper evaluates ChatGPTs ability to understand and reproduce human humor through exploratory experiments.'
 date: 2023-07-07
 venue: 'WASSA at ACL Conference'
 paperurl: 'https://arxiv.org/abs/2306.04563'
