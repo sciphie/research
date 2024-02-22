@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Requirements-AI-Collaboration
 excerpt: 'This paper is a collaboration between colleagues of different DLR institutes, namely Sabine Theis (Group Leader of the Group Human Factors in Software Engineering in the Institue for Softwaretechnology), me (Group Intelligente Software Systeme, same Institute), Foteini Deligiannaki, Charles Berro, and Arne Raulf (DLR Institute for AI Security), and Carmen Bruder (DLR Institute of Aerospace Medicine).'
 date: 2023-06-01
-venue: 'International Conference on Human-Computer Interaction (CHI) '
+venue: 'International Conference on Human-Computer Interaction (CHI)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-35891-3_22'
 citation: 'Theis, S., Jentzsch, S., Deligiannaki, F., Berro, C., Raulf, A. P., & Bruder, C. (2023, July). Requirements for Explainability and Acceptance of Artificial Intelligence in Collaborative Work. In International Conference on Human-Computer Interaction (pp. 355-380). Cham: Springer Nature Switzerland.'
 ---
