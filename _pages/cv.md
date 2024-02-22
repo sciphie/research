@@ -16,26 +16,16 @@ Education
 * B.Sc. in Psychology in IT, Technische Universität Darmstadt, 2015
 * M.Sc. in Psychology in IT, Technische Universität Darmstadt, 2018
 
-Work experience
+Current Position
 ======
-* Jan 2019 - now: Research Assistant at German Aerospace Center (DLR e.V.) in the Group for Intelligent Software Systems at the Institute for Softwaretechnology (Cologne and Sankt Augustin)
-
-
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Since Jan 2019: Research Assistant at German Aerospace Center (DLR e.V.) in the Group for Intelligent Software Systems at the Institute for Softwaretechnology (Cologne and Sankt Augustin)
+* PhD Candidate at the AIML group at TU Darmstadt 
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
   
 <!--Talks
 ======
