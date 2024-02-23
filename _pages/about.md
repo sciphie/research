@@ -16,4 +16,4 @@ My research focuses on Large Language Models (LLMs), investigating biases in mac
 
 Thank you for visiting. Please feel free to browse through my publications, talks, and ongoing projects. Don't hesitate to reach out to me for any inquiries or collaborations! :)
 
-Find further up-to-date resources at linktr.ee/sciphie 
+Find further up-to-date resources at <a href="https://linktr.ee/sciphie">linktr.ee/sciphie </a>
