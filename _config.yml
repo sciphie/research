@@ -218,6 +218,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _media
+  - scope:
+      path: ""
+      type: media
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
