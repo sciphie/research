@@ -3,7 +3,7 @@ permalink: /cats/
 title: "Cats, Cats, Cats"
 author_profile: true
 ---
-Cats are not only the true inventors of the Internet, but they also are among the most majestic and graceful creatures on our beautiful planet. Here are a few impressions of everyday cat activities.
+Cats are not only the true inventors of the internet but also among the most majestic and graceful creatures on our beautiful planet. Here are a few impressions of everyday cat activities.
 
 <p float="left">
 <img src="..\images\cat(2).jpg" alt="cat(2).jpg" width="250" height="250"> 
